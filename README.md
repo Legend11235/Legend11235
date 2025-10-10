@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sohum Guha (Legend112358)
 
-<!--
-**Legend11235/Legend11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things across algorithms, data systems, and machine learning.
 
-Here are some ideas to get you started:
+- **FPL Optimizer**: full-stack ML web app predicting next-GW points and optimizing squads.
+- **Transformer from Scratch**: PyTorch implementation exploring attention and training loops.
+- **Neuroscience data pipeline**: automated extraction and visualization for behavioral + eye-tracking data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python, PyTorch, scikit-learn, XGBoost, Flask, React, Tailwind, PostgreSQL, MATLAB, Bash
+
+## What I’m focused on
+- Refactoring the FPL model into a clean scikit-learn/XGBoost pipeline.
+- Comparing sequence models to boosted trees on time-series player data.
+
+## Selected projects
+- FPL Optimizer — repo: <https://github.com/Legend112358/your-fpl-repo>
+- Transformer from Scratch — repo: <https://github.com/Legend112358/transformer-from-scratch>
+- Neuroscience Automation — repo: <https://github.com/Legend112358/neuro-automation>
+
+## Contact
+- LinkedIn: <https://www.linkedin.com/in/sohumguha/>
+- Email: <you@domain.com>
+
+![Python](https://img.shields.io/badge/Python-3.x-informational)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML-informational)
