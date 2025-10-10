@@ -4,6 +4,7 @@ I build things across algorithms, data systems, and machine learning.
 
 - **FPL Optimizer**: full-stack ML web app predicting player FPL points and the most optimal Fantasy squads.
 - **Transformer from Scratch**: PyTorch implementation exploring attention and training loops.
+- **Equity Portfolio Optimizer**: Trains signals from market data and 10-K text, then optimizes long/short weights with risk caps, turnover limits, and performance tracking.
 - **Neuroscience data pipeline**: automated extraction and visualization for behavioral + eye-tracking data.
 
 ## Tools
@@ -16,6 +17,7 @@ Python, PyTorch, scikit-learn, XGBoost, Flask, React, Tailwind, PostgreSQL, MATL
 ## Selected projects
 - FPL Optimizer — repo: <https://github.com/Legend112358/your-fpl-repo>
 - Transformer from Scratch — repo: <https://github.com/Legend112358/transformer-from-scratch>
+-  Equity Portfolio Optimizer - repo: <https://github.com/Legend11235/equity-portfolio-optimizer>
   
 ## Contact
 - LinkedIn: <https://www.linkedin.com/in/sohumguha/>
