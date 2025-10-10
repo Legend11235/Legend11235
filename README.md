@@ -2,7 +2,7 @@
 
 I build things across algorithms, data systems, and machine learning.
 
-- **FPL Optimizer**: full-stack ML web app predicting next-GW points and optimizing squads.
+- **FPL Optimizer**: full-stack ML web app predicting player FPL points and the most optimal Fantasy squads.
 - **Transformer from Scratch**: PyTorch implementation exploring attention and training loops.
 - **Neuroscience data pipeline**: automated extraction and visualization for behavioral + eye-tracking data.
 
@@ -20,7 +20,6 @@ Python, PyTorch, scikit-learn, XGBoost, Flask, React, Tailwind, PostgreSQL, MATL
 ## Contact
 - LinkedIn: <https://www.linkedin.com/in/sohumguha/>
 - Email: <sohum.guha@mail.mcgill.ca>
-cat >> README.md <<'EOF'
 
 ## Tech Stack
 
