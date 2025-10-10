@@ -1,4 +1,4 @@
-#🫡 Hi, I'm Sohum Guha
+#👋 Hi, I'm Sohum Guha
 
 I build things across algorithms, data systems, and machine learning.
 
