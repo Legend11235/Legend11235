@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Sohum Guha
 
 I build things across algorithms, data systems, and machine learning. 
+
 Football Fanatic
+
 Gamer (obsessed wiht FIFA/FC)  
 
 - **FPL Optimizer**: full-stack ML web app predicting player FPL points and the most optimal Fantasy Premier League squads.
