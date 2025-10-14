@@ -2,7 +2,7 @@
 
 Football Fanatic ⚽️
 
-Gamer (obsessed wiht FIFA/FC) 🎮
+Gamer (obsessed with FIFA/FC) 🎮
 
 I build things across algorithms, data systems, and machine learning. 
 
