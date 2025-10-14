@@ -15,8 +15,8 @@ Python, PyTorch, scikit-learn, XGBoost, Flask, React, Tailwind, PostgreSQL, MATL
 - Comparing sequence models to boosted trees on time-series player data.
 
 ## Selected projects
-- FPL Optimizer — repo: <https://github.com/Legend112358/your-fpl-repo>
-- Transformer from Scratch — repo: <https://github.com/Legend112358/transformer-from-scratch>
+- FPL Optimizer - repo: <https://github.com/Legend112358/your-fpl-repo>
+- Transformer from Scratch - repo: <https://github.com/Legend112358/transformer-from-scratch>
 -  Equity Portfolio Optimizer - repo: <https://github.com/Legend11235/equity-portfolio-optimizer>
   
 ## Contact
