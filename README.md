@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sohum Guha
 
-Football Fanatic
+Football Fanatic ⚽️
 
-Gamer (obsessed wiht FIFA/FC)  
+Gamer (obsessed wiht FIFA/FC) 🎮
 
 I build things across algorithms, data systems, and machine learning. 
 
