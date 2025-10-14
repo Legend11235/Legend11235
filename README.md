@@ -33,6 +33,7 @@ Python, PyTorch, scikit-learn, XGBoost, Flask, React, Tailwind, PostgreSQL, MATL
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-OpenJDK-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![C](https://img.shields.io/badge/C-Systems-A8B9CC?logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C++-STL-00599C?logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
