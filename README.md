@@ -15,6 +15,7 @@ I build things across algorithms, data systems, and machine learning.
 Python, PyTorch, scikit-learn, XGBoost, Flask, React, Tailwind, PostgreSQL, MATLAB, Bash
 
 ## What I’m focused on
+- Currently building a compiler from scratch.
 - Refactoring the FPL model into a clean scikit-learn/XGBoost pipeline.
 - Comparing sequence models to boosted trees on time-series player data.
 
