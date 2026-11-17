@@ -53,10 +53,6 @@ Honours CS student at McGill (graduating 2027). I work across compilers and mach
 [![pandas](https://img.shields.io/badge/pandas-Data-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
-**Learning**  
-![CUDA](https://img.shields.io/badge/CUDA-learning-76B900?logo=nvidia&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton-learning-informational)
-
 **Web**  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
