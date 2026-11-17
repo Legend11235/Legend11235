@@ -8,7 +8,6 @@ Honours CS student at McGill (graduating 2027). I work across compilers and mach
 - **Eclipse OMR** (C++): contributing to the runtime under OpenJ9, including AArch64 codegen work on switch-statement lowering.
 - **COMP 400 research** (starting Winter 2027): compiler optimization research
 - **Machine learning:** refactoring my FPL model into a clean scikit-learn/XGBoost pipeline, and comparing sequence models to boosted trees on time-series player data.
-- **Next up:** GPU kernels and LLM inference (CUDA, Triton), with a write-up of what I measure.
 
 ## Selected projects
 
