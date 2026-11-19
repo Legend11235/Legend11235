@@ -1,6 +1,6 @@
 # Hi, I'm Sohum Guha
 
-Honours CS student at McGill (graduating 2027). I work across compilers and machine learning: I build ML models end to end, and I'm digging into the systems side of what makes them run fast. Also a huge Man City fan. ⚽️
+4th year Honours CS student at McGill. I work across compilers and machine learning: I build ML models end to end, and I'm digging into the systems side of what makes them run fast. Also a huge Man City fan. ⚽️
 
 ## What I'm working on
 
